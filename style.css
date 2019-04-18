@@ -1,0 +1,24 @@
+
+
+
+.text {
+    font-family: 'Dokdo', cursive;
+    padding-left: 200px;
+    line-height: 30px;
+}
+
+.img {
+    max-width: 100%;
+    min-width: auto;
+    height: 400px;
+    margin: auto;
+    background-size: cover;
+}
+
+#contact {
+    height: 600px;
+    background-image: url(images/666.jpg);
+    background-position: right;
+    background-size: cover;
+   
+}
